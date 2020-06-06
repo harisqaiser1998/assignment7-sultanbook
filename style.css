@@ -1,0 +1,152 @@
+.navbar
+{
+background-color: #f7f572 !important;
+
+}
+
+.nav-link 
+{
+    color:black !important;
+    font-weight: bold;
+   
+}
+.nav-item a:hover
+{
+
+color: white !important;
+}
+
+
+.fa-search
+{
+    font-size: 30px;
+    color:red;
+
+}
+
+
+h3
+{
+    color: purple;
+}
+.fa-shipping-fast,.fa-female
+{
+    font-size: 35px;
+    margin-right: 10px;
+    color: blue;
+}
+.button1
+{
+ text-align: center;
+}
+
+.fa-facebook-f,.fa-twitter,.fa-linkedin-in,.fa-google-plus-g
+{
+    color: blue;
+font-size: 30px;
+}
+.fa-home,.fa-envelope,.fa-phone
+{
+    color: black;
+}
+.dropdown-menu a:hover{
+    color: black !important;
+}
+.firstheading h3
+{
+    color: black; 
+    font-size: 23px; 
+    text-align: center;
+}
+h5
+{
+    font-size: 14px;
+    color: red;
+    text-align: center;
+}
+.firstpara
+{
+    font-size: 17px;
+    line-height: 30px;
+    font-weight: bold;
+color: blue;
+text-align: center;
+}
+.secondpara
+{
+    line-height: 30px;
+ 
+
+}
+.bords
+{
+    border: 1px solid black;
+    background-color: blue;
+    height: 500px;
+    
+}
+.card-title
+{
+    font-size: 20px;
+}
+.card-title1
+{
+    font-size: 16px;
+line-height: 30px;
+}
+.card-title2
+{
+    
+line-height: 28px;
+}
+
+.card-text
+{
+    text-align: center;
+    font-weight: bold;
+    font-size:large;
+}
+.btn-outline-primary
+{
+    width: 100%;
+    background-color: yellow;
+}
+.card
+{
+    margin-bottom: 20px;
+    line-height: 5px;
+    
+
+}
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.images1
+{
+  position:fixed;
+  bottom: 10px;
+  right: 10px;
+  color: white;
+}
+.card-te
+{
+    font-size: 14px;
+    line-height: 15px;
+}
+.fa-truck,.fa-female
+{
+    color: red;
+font-size: 46px;
+align-items: center;
+
+}
+
+h1
+{
+    color: red;
+}
